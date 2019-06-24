@@ -7,82 +7,73 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Xiaohui Yu
+    tagline: Ph.D. applicant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: yuxh8@mail2.sysu.edu.cn
+    phone: 13060652336
+    website: arianay.github.io #do not add http://
+    facebook: alandoe
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Cantonese
+        level: fluent
 
     interests:
-      - item: Climbing
+      - item: diving
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
-    title: Career Profile
+    title: PERSONAL PROFILE
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Proactive and passionate medical researcher
+Dedicated to: developing therapy to treat cancer, preventing cancer development and understanding mechanisms regarding with oncology
+Current Supervisor: Zeng Musheng, the respected expertise in EBV vaccine design and cancer research
 
-      Second paragraph if required.
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+EDUCATION:
+    - degree: Bachelor Degree in Medicine, Basic Medical Sciences 
+      university: Zhongshan School of Medicine, Sun Yat-sen University, top 10 university in China
+      time: Aug. 2015-expected Jun. 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        GPA: 3.6/4.0, rank 4/25
+        Awarded Scholarships for Outstanding Academic Performance for 3 consecutive years 
+        TOEFL 106 
 
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
+    - degree: Final year project:  
       university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      time: Dec. 2018–expected Jun. 2020
+      details: |        “Receptor X is a Receptor for Epstein-Barr Virus Entry”
+      Advisor: Musheng Zeng, Vice President of Sun Yat-sen University Cancer Center/MD, Ph.D.
 
           - Bullet point
           - Bullet point
 
-experiences:
+RESEARCH EXPERIENCE:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
